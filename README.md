@@ -44,7 +44,7 @@ pip install opencv-python numpy torch scikit-learn pillow
 - `/usr/local/share/opencv4/haarcascades/haarcascade_frontalface_default.xml`
 - In the same directory as the script
 
-##Dataset 
+## Dataset 
 
 The dataset has been obtained from Kaggle: 
 https://www.kaggle.com/api/v1/datasets/download/vasukipatel/face-recognition-dataset
